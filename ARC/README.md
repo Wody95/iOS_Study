@@ -1,3 +1,5 @@
+### 원래 작성한 [Notion Link](https://wodylikeios.notion.site/Swift-ARC-46e86cfffae24a0bbf03d45a2cc62558)
+
 # [Automatic Reference Counting](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html#ID49)
 
 자동 참조 카운팅
